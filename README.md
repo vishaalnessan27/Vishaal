@@ -24,6 +24,6 @@
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/vishaal-nessan-200037362?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/vishaal-nessan-200037362?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **LinkedIn:** [https://www.linkedin.com/in/vishaal-nessan-200037362?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/vishaalnessan-ragunathan-200037362?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **Email:** [vishaalnessan@graduate.utm.my](vishaalnessan@graduate.utm.my)
 
