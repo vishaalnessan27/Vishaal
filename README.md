@@ -1,6 +1,6 @@
 # Hi, I'm VISHAALNESSAN RAGUNATHAN👋
-
 -Computer Science undergraduate majoring in Data Engineering
+
 ---
 
 ## 🚀 About Me
