@@ -25,5 +25,5 @@
 ## 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/vishaal-nessan-200037362?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- **Email:** [your-email@gmail.com](vishaalnessan@graduate.utm.my)
+- **Email:** [vishaalnessan@graduate.utm.my](vishaalnessan@graduate.utm.my)
 
