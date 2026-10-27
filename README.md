@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL" alt="screenshot.png" width="200">
+  <img src="YOUR_IMAGE_URL" alt="images\screenshot.png" width="200">
 </p>
 
 # Hi, I'm VISHAALNESSAN RAGUNATHAN👋
