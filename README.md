@@ -1,3 +1,5 @@
+<img src="images/screenshot.png" alt="App Screenshot" width="500">
+
 # Hi, I'm VISHAALNESSAN RAGUNATHAN👋
 -Computer Science undergraduate majoring in Data Engineering
 
